@@ -5,10 +5,10 @@ Dentro del dashboard se añaden dos visualizaciones donde la primera es un gráf
 En la segunda visualización, se agregó un mapa coroplético para ver por pais y el estado con más ventas. 
 
 Por otro lado, se añadieron 3 tarjetas. La 1era. Cálcula el total de ganacias, la 2da. Cuenta el numero de ciudades con ventas y la 3era. Cálcula el total de ventas. 
-Para darle mas dinamismo al dashboard se agregó una barra vertila al costado derecho, donde se le agregó una segmentación de datos para poder filtrar por categoria las visualizaciones, también se le agrego un botón para poder moverse por las paginas del dashboard y otro para poder regresar a la pagina anterior posicionado en la parte superior izquidarda de la hoja. 
+Para darle mas dinamismo al dashboard se agregó una barra vertical al costado derecho, donde se le agregó una segmentación de datos para poder filtrar por categoria las visualizaciones, también se le agrego un botón para poder moverse por las paginas del dashboard y otro para poder regresar a la pagina anterior posicionado en la parte superior izquidarda de la hoja. 
 
 Dentro del dashboard se crearón 3 paginas, donde la segunda pagina que se llama "ganacias" esta representada por una visualización de matriz, que expresa el nombre del cliente, el sub-producto, el orden de copra y el total de ganacias.
-Esto con el fin de ver de que cliente se tuvo mas ganacias y si cambio por año. 
+Esto con el fin de ver de que clientes obtuvieron más ganacias y si cambio por año. 
 
 Por último, se agregó una pagina más al dashboard de modo oculto, llamada detalles por cliente con base en ciertos datos como el nombre del cliente, ID del producto, sub-categorias, fehca de envio, etc se podrá acceder a esta tabla y visualizar datos relevantes para el cliente. 
 
