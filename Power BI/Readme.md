@@ -1,4 +1,4 @@
-En este respositorio se hablará del caso práctico realizado, donde se llevo a cabo desde 0 diferentes tecnicas de visualización de datos 
+En este respositorio se hablará del caso práctico realizado, donde se llevo a cabo desde 0, con diferentes tecnicas de visualización de datos 
 con el fin presentar un dashboard amigable para el lector. 
 
 Dentro del dashboard se añaden dos visualizaciones donde la primera es un gráfico de barras apiladas que se clasifica por las suma de las ventas vs sub-categorias, esto con el fin de ver el tipo de sub-categoria más vendida.
